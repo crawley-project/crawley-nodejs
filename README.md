@@ -1,4 +1,4 @@
-### A php implementation of the crawley framework
+### A Node Js implementation of the crawley framework
 
 Do you like **crawley**? Do you love **Node JS**?
 
